@@ -1,0 +1,22 @@
+---
+title: "Landing_page"
+author: "an433_azwadriqbal"
+date: "2023-03-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<center>
+![](https://gradschool.cornell.edu/wp-content/uploads/2022/05/Angela-Nankabirwa-crop-400x400.jpg)
+
+Image 1: Angela
+```{r}
+
+
+
+
+```
+

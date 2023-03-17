@@ -1,0 +1,29 @@
+---
+title: "Angela"
+author: "an433"
+date: "2023-03-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+</center>
+<br>
+
+## *Employment*
+**2021 to date:** Graduate Student, Cornell University
+
+**2015 to 2021:** FIRRI
+
+<br>
+
+## *Hobbies*
+
+ *  Playing volleyball
+ 
+ * Nature walks
+ 
+ * Watching comedy shows
