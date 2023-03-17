@@ -10,9 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <center>
-![](https://gradschool.cornell.edu/wp-content/uploads/2022/05/Angela-Nankabirwa-crop-400x400.jpg)
 
-Image 1: Angela
+![](https://lookwhatwedone.files.wordpress.com/2015/05/pen.jpg?w=1038&h=576&crop=1)
+
+Image 1: **Let us collaborate**
 ```{r}
 
 
